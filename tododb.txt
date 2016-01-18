@@ -1,0 +1,7 @@
+Database Name: tododb
+
+CREATE DTABASE tododb;
+
+Tabel name: todotabel
+
+CREATE TABEL todotabel(id SERIAL NOT NULL,Data varchar(155),DOT varchar(15),time varchar(15)) ;
